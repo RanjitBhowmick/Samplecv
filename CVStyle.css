@@ -1,0 +1,201 @@
+body
+{
+	margin:0 0 0 0;
+}
+h2
+{
+	font-size:2.3rem;
+	color:#5eaaa8;
+	margin-bottom:40px;
+	font-family: 'Noto Sans JP', sans-serif;
+	font-weight:1;
+}
+h3
+{
+	font-size:1.2rem;
+	color:#40a8c4;
+	font-family: 'Noto Sans JP', sans-serif;
+	font-weight:2;
+}
+p
+{
+	font-size:1.2rem;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+.Top-container
+{
+	text-align:center;
+	background-color:#cffffe;
+	margin-bottom: 80px;
+}
+.Cloud1
+{
+	height: 100px;
+	width:250px;
+	position:relative;
+	left:300px;
+	padding-top:20px;
+}
+.Introduce
+{
+	font-family: 'Yellowtail', cursive;
+	font-size:4.6rem;
+	color:#5eaaa8;
+}
+
+.Introduce2
+{
+	font-family: 'Questrial', sans-serif;
+	color:#5eaaa8;
+	font-size:2.0rem;
+	font-weight:normal;
+}
+
+.Cloud2
+{
+	height:50px;
+	width:150px;
+	position:relative;
+	right:300px;
+}
+
+.castle
+{	height:400px;
+	width:500px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+.image
+{
+	height:180px;
+	width:180px;
+	border-radius:100%;
+}
+hr
+{
+	height:3px;
+	width:10%;
+	border:none;
+	background-color:#cd0a0a;
+	margin-top:120px;
+	margin-bottom:120px; 
+}
+
+.Mid-Container
+{
+	text-align:center;
+}
+
+.Myself
+ {
+	 color:#1a1a2e;
+	 line-height:2;
+	 width:30%;
+	 margin:auto;
+	 font-size:1.2rem;
+ }
+.Contact
+{
+	 color:#1a1a2e;
+	 line-height:2;
+	 width:60%;
+	 margin:auto;
+	 margin-bottom:30px;
+}
+.skillrow1
+{
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:50px;
+}
+.Myskillh3
+{
+	font-size:1.2rem;
+	color:#40a8c4;
+	font-family: 'Noto Sans JP', sans-serif;
+	text-align:left;
+}
+.Skillimage1
+ {
+	width:25%;
+	border-radius:100%;
+	float:left;
+	margin-right:20px;
+ }
+ .skillrowdata1
+ {
+	 color:#1a1a2e;
+	 line-height:2;
+	 text-align:left;
+	 font-size:1.2rem;
+ }
+ .skillrow2
+{
+	width:50%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.Myskill2h3
+{
+	font-size:1.2rem;
+	color:#40a8c4;
+	font-family: 'Noto Sans JP', sans-serif;
+	text-align:left;
+}
+.Skillimage2
+ {
+	width:25%;
+	border-radius:100%;
+	float:right;
+	margin-left:20px;
+	border-style:solid;
+ }
+.skillrowdata2
+ {
+	 color:#1a1a2e;
+	 line-height:2;
+	 text-align:left;
+	 font-size:1.2rem;
+ }
+.Bottom-Container
+{
+	text-align:center;
+	background-color:#cffffe;
+	padding:30 0 30 0;
+}
+.myButton {
+	background:linear-gradient(to bottom, #5eaaa8 5%, #cffffe 100%);
+	background-color:#5eaaa8;
+	border-radius:16px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:16px;
+	padding:8px 24px;
+	text-decoration:none;
+	margin-bottom:120px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #cffffe 5%, #5eaaa8 100%);
+	background-color:#cffffe;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.contact-image
+{
+	height:20px;
+	width:20px;
+	margin:0 10 0 10;
+}
+.copyright
+{
+	font-size:0.7rem;
+}
+
+
